@@ -1,11 +1,11 @@
 {
   "addons" : [
-    "[https:\/\/aiostreams.fortheweak.cloud\/stremio\/af410fe3-2564-4261-b0f9-79c72630b507\/eyJpIjoiRHpQVGRNTm8zcjVxWDR3YU43VGtPUT09IiwiZSI6InppTkkvUUU4RDFuYUJmWW5wa2FQS0ErQWNsRXRTVTVOazd1cFU3QTZnOTA9IiwidCI6ImEifQ\/manifest.json]https:\/\/aiostreams.fortheweak.cloud\/stremio\/af410fe3-2564-4261-b0f9-79c72630b507\/eyJpIjoiRHpQVGRNTm8zcjVxWDR3YU43VGtPUT09IiwiZSI6InppTkkvUUU4RDFuYUJmWW5wa2FQS0ErQWNsRXRTVTVOazd1cFU3QTZnOTA9IiwidCI6ImEifQ\/manifest.json",
-    "[https:\/\/aiostreams.fortheweak.cloud\/stremio\/576e1bda-c89c-48a5-ad8b-2e744b3e07ec\/eyJpIjoiZ1dxWVRzYUxVSXRiNnBiUHpNdk1idz09IiwiZSI6ImdpSG1qR211MnhJRmg0eE9HYXFlY0hoRDE4V0x2Zjh2N3djTnB4b2REV3M9IiwidCI6ImEifQ\/manifest.json]https:\/\/aiostreams.fortheweak.cloud\/stremio\/576e1bda-c89c-48a5-ad8b-2e744b3e07ec\/eyJpIjoiZ1dxWVRzYUxVSXRiNnBiUHpNdk1idz09IiwiZSI6ImdpSG1qR211MnhJRmg0eE9HYXFlY0hoRDE4V0x2Zjh2N3djTnB4b2REV3M9IiwidCI6ImEifQ\/manifest.json",
-    "[https:\/\/trailerio.cc\/manifest.json]https:\/\/trailerio.cc\/manifest.json",
-    "[https:\/\/torrent-catalogs.strem.fun\/manifest.json]https:\/\/torrent-catalogs.strem.fun\/manifest.json",
-    "[https:\/\/stremio-community-subtitles.top\/Yd_PUj1i-n4bfgIMQWVdV9goxd5T2-Ax5A66PMiGNeQ\/manifest.json]https:\/\/stremio-community-subtitles.top\/Yd_PUj1i-n4bfgIMQWVdV9goxd5T2-Ax5A66PMiGNeQ\/manifest.json",
-    "[https:\/\/opensubtitles.stremio.homes\/nl\/ai-translated=true%7Cfrom=all%7Cauto-adjustment=true\/manifest.json]https:\/\/opensubtitles.stremio.homes\/nl\/ai-translated=true%7Cfrom=all%7Cauto-adjustment=true\/manifest.json"
+    "https:\/\/aiostreams.fortheweak.cloud\/stremio\/af410fe3-2564-4261-b0f9-79c72630b507\/eyJpIjoiRHpQVGRNTm8zcjVxWDR3YU43VGtPUT09IiwiZSI6InppTkkvUUU4RDFuYUJmWW5wa2FQS0ErQWNsRXRTVTVOazd1cFU3QTZnOTA9IiwidCI6ImEifQ\/manifest.json",
+    "https:\/\/aiostreams.fortheweak.cloud\/stremio\/576e1bda-c89c-48a5-ad8b-2e744b3e07ec\/eyJpIjoiZ1dxWVRzYUxVSXRiNnBiUHpNdk1idz09IiwiZSI6ImdpSG1qR211MnhJRmg0eE9HYXFlY0hoRDE4V0x2Zjh2N3djTnB4b2REV3M9IiwidCI6ImEifQ\/manifest.json",
+    "https:\/\/trailerio.cc\/manifest.json",
+    "https:\/\/torrent-catalogs.strem.fun\/manifest.json",
+    "https:\/\/stremio-community-subtitles.top\/Yd_PUj1i-n4bfgIMQWVdV9goxd5T2-Ax5A66PMiGNeQ\/manifest.json",
+    "https:\/\/opensubtitles.stremio.homes\/nl\/ai-translated=true%7Cfrom=all%7Cauto-adjustment=true\/manifest.json"
   ],
   "exportType" : "fusionAddons",
   "exportVersion" : 1
